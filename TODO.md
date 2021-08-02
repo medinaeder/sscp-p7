@@ -10,5 +10,7 @@
 []:
 ## Eder
 [x]: Initiate github repo and start overleaf document
-[]: Check out rice python model
+[x]: Check out land python model
+[]: Fix subdirectory structure to get Rice model to work
+[]: Write code to solve the active contraction problem
 []: Add relevant files to different lecture section to run Rice Model
