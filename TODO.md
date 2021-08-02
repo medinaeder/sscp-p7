@@ -11,6 +11,8 @@
 ## Eder
 [x]: Initiate github repo and start overleaf document
 [x]: Check out land python model
+[x]: Write abstract base
 []: Fix subdirectory structure to get Rice model to work
 []: Write code to solve the active contraction problem
+[]: Add fiber dispersion parameter to calculations
 []: Add relevant files to different lecture section to run Rice Model
